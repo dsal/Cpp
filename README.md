@@ -22,6 +22,9 @@ Dev-C++ is an Integrated Development Environment (IDE) for writing, compiling, a
 
 ![image](https://github.com/user-attachments/assets/1b52fc3c-c349-4d4d-a7cb-79f259af90fc)
 
+# Environment: Clion
+![image](https://github.com/user-attachments/assets/26cf2db4-6330-4f92-aa14-947866518a38)
+
 # Basic code elements of C++
   - #include <iostream>
     This is a preprocessor directive that includes the iostream library, which provide functionalities for input and output (e.g., cin, cout).
