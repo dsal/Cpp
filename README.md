@@ -19,6 +19,7 @@ OOP is a programming paradigm based on the concept of "objects," which are insta
 
 # Environment: Dev-C++
 Dev-C++ is an Integrated Development Environment (IDE) for writing, compiling, and running C++ programs. It provides tools such as a text editor, compiler (usually MinGW), and debugger.
+
 ![image](https://github.com/user-attachments/assets/1b52fc3c-c349-4d4d-a7cb-79f259af90fc)
 
 # Basic code elements of C++
