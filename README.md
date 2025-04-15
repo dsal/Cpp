@@ -85,3 +85,4 @@ Building a program is the process of converting C++ source code into an executab
 An FTDI (Future Technology Devices International) USB to Serial Converter is a device that allows communication between a computer's USB port and a serial (UART) interface. It is commonly used for programming microcontrollers, debugging, and connecting serial devices.
 
 ![image](https://github.com/user-attachments/assets/afccda00-d1a4-4588-afdd-c624fe9074cc)
+Figure: a FTDI adapter with Arduino board
