@@ -75,12 +75,8 @@ A **compile error** occurs when the C++ compiler finds incorrect syntax or missi
 
 
 A directory from a C++ project contains CLion-specific configuration files (Figure 3).
-**.idea** folder store project settings, run configurations, and other IDE-related files.
-
 **cmake-build-debug** folder contains compiled binaries, object files, and other temporary build files.
-
 **CMakelists** is an exe file that defines how the project should be built, including source files, dependencies, and compiler settings.
-
 **main** file is the compiled executable of the program, generated from the source code. It can be run directly on the operating system.
 
 ![image](https://github.com/user-attachments/assets/2f56ce8a-347e-4485-806f-7981c5dc2172)
