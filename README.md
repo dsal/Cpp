@@ -28,7 +28,7 @@ Popular C++ IDEs are Visual Studio, NetBeans, Eclipse, CodeLite and Clion.
 You can download Dev-C++ by clicking on the following link:
 https://sourceforge.net/projects/orwelldevcpp/
 
-A highly developed C++ environment is **CLion** that is a special cross-platform IDE for C and C++. It has user-friendly environment and powerful features, especially when working on large or complex C/C++ projects. It requires license; however, students can get free access to it.
+A highly developed C++ environment is **CLion** that is a special cross-platform IDE for C and C++. It has user-friendly environment and powerful features, especially when working on large or complex projects. It requires license; however, students can get free access to it.
 
 ![image](https://github.com/user-attachments/assets/26cf2db4-6330-4f92-aa14-947866518a38)
 
