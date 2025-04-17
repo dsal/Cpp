@@ -81,7 +81,7 @@ A directory from a C++ project contains CLion-specific configuration files (Figu
 
 **main** file is the compiled executable of the program, generated from the source code. It can be run directly on the operating system.
 
-![image](https://github.com/user-attachments/assets/3570465c-2961-45f5-bff5-d8b34637d69e)
+![image](https://github.com/user-attachments/assets/2f56ce8a-347e-4485-806f-7981c5dc2172)
 Figure 3: A directory from a C++ project
 
 What is an **FTDI Converter**? An FTDI (Future Technology Devices International) USB to Serial Converter is a device that allows communication between a computer's USB port and a serial (UART) interface. It is commonly used for programming microcontrollers, debugging, and connecting serial devices.
