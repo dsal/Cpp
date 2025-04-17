@@ -23,7 +23,8 @@ Dev-C++ is an Integrated Development Environment (IDE) for writing, compiling, a
 ![image](https://github.com/user-attachments/assets/1b52fc3c-c349-4d4d-a7cb-79f259af90fc)
 
 # Environment: Clion
-CLion is a special IDE for C and C++ development. It has user-friendly environment and powerful features, especially when working on large or complex C/C++ projects. It requires license; however, students can get free access to it.
+CLion is a special IDE for C and C++. It has user-friendly environment and powerful features, especially when working on large or complex C/C++ projects. It requires license; however, students can get free access to it.
+
 ![image](https://github.com/user-attachments/assets/26cf2db4-6330-4f92-aa14-947866518a38)
 
 # Basic code elements of C++
