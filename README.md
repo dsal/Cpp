@@ -24,6 +24,7 @@ IDE typically includes:
 Popular C++ IDEs are Visual Studio, NetBeans, Eclipse, CodeLite and Clion.
 
 ![image](https://github.com/user-attachments/assets/1b52fc3c-c349-4d4d-a7cb-79f259af90fc)
+
 Figure 1: Dev-C++ environment
 
 You can download Dev-C++ by clicking on the following link:
@@ -32,6 +33,7 @@ https://sourceforge.net/projects/orwelldevcpp/
 A highly developed C++ environment is **CLion** that is a special cross-platform IDE for C and C++. It has user-friendly environment and powerful features, especially when working on large or complex projects. It requires license; however, students can get free access to it.
 
 ![image](https://github.com/user-attachments/assets/26cf2db4-6330-4f92-aa14-947866518a38)
+
 Figure 2: CLion environment
 
 By clicking on this link, you can download CLion:
@@ -82,9 +84,11 @@ A directory from a C++ project contains CLion-specific configuration files (Figu
 **main** file is the compiled executable of the program, generated from the source code. It can be run directly on the operating system.
 
 ![image](https://github.com/user-attachments/assets/2f56ce8a-347e-4485-806f-7981c5dc2172)
+
 Figure 3: A directory from a C++ project
 
 What is an **FTDI Converter**? An FTDI (Future Technology Devices International) USB to Serial Converter is a device that allows communication between a computer's USB port and a serial (UART) interface. It is commonly used for programming microcontrollers, debugging, and connecting serial devices.
 
 ![image](https://github.com/user-attachments/assets/afccda00-d1a4-4588-afdd-c624fe9074cc)
+
 Figure: a FTDI adapter with Arduino board
