@@ -35,7 +35,7 @@ A highly developed C++ environment is **CLion** that is a special cross-platform
 By clicking on this link, you can download CLion:
 https://www.jetbrains.com/clion/
 
-# Basic code elements of C++
+# Basic elements of C++
   - #include <iostream>
     This is a preprocessor directive that includes the iostream library, which provide functionalities for input and output (e.g., cin, cout).
   - Comment: /* */ and //
