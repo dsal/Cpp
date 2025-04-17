@@ -36,20 +36,6 @@ By clicking on this link, you can download CLion:
 https://www.jetbrains.com/clion/
 
 # Basic elements of C++
-  - #include <iostream>
-    This is a preprocessor directive that includes the iostream library, which provide functionalities for input and output (e.g., cin, cout).
-  - Comment: /* */ and //
-    /*...*/ is used for multi-line comments.
-    // is used for single-line comments.
-  - Cout
-    cout (Console Output) is used to print text to the screen. Example: std::cout<<"Hello, World!";
-  - Semicolon (;)
-    A semicolon marks the end of a statement in C++. Every executable statement must end with a semicolon.
-  - endl
-    endl is used to insert a newline in the output and flush the output buffer. Example:
-    std::cout << "Hello" << std::endl;
-    std::cout << "World!";
-
 A **compile error** occurs when the C++ compiler finds incorrect syntax or missing elements in the code. Common causes include:
   - Missing semicolons (;).
   - Using undeclared variables.
