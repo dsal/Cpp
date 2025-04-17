@@ -24,6 +24,7 @@ IDE typically includes:
 Popular C++ IDEs are Visual Studio, NetBeans, Eclipse, CodeLite and Clion.
 
 ![image](https://github.com/user-attachments/assets/1b52fc3c-c349-4d4d-a7cb-79f259af90fc)
+Figure 1: Dev-C++ environment
 
 You can download Dev-C++ by clicking on the following link:
 https://sourceforge.net/projects/orwelldevcpp/
@@ -31,6 +32,7 @@ https://sourceforge.net/projects/orwelldevcpp/
 A highly developed C++ environment is **CLion** that is a special cross-platform IDE for C and C++. It has user-friendly environment and powerful features, especially when working on large or complex projects. It requires license; however, students can get free access to it.
 
 ![image](https://github.com/user-attachments/assets/26cf2db4-6330-4f92-aa14-947866518a38)
+Figure 2: CLion environment
 
 By clicking on this link, you can download CLion:
 https://www.jetbrains.com/clion/
@@ -68,6 +70,19 @@ A **compile error** occurs when the C++ compiler finds incorrect syntax or missi
   1.	Preprocessing: Handles #include, #define, and other preprocessor directives.
   2.	Compilation: Translates .cpp files into machine code (.o or .obj).
   3.	Linking: Combines compiled files with libraries to produce an executable (.exe, a.out).
+
+
+A directory from a C++ project contains CLion-specific configuration files (Figure 3).
+**.idea** folder store project settings, run configurations, and other IDE-related files.
+
+**cmake-build-debug** folder contains compiled binaries, object files, and other temporary build files.
+
+**CMakelists** is an exe file that defines how the project should be built, including source files, dependencies, and compiler settings.
+
+**main** file is the compiled executable of the program, generated from the source code. It can be run directly on the operating system.
+
+![image](https://github.com/user-attachments/assets/3570465c-2961-45f5-bff5-d8b34637d69e)
+Figure 3: A directory from a C++ project
 
 What is an **FTDI Converter**? An FTDI (Future Technology Devices International) USB to Serial Converter is a device that allows communication between a computer's USB port and a serial (UART) interface. It is commonly used for programming microcontrollers, debugging, and connecting serial devices.
 
